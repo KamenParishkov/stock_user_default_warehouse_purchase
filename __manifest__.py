@@ -5,7 +5,7 @@
 
 {
     'name': 'Default Warehouse on User (Purchase)',
-    'version': '10.0.1.0.0',
+    'version': '11.0.1.0.0',
     'category': 'Purchases',
     'license': 'AGPL-3',
     'summary': "Use the users's default warehouse on purchase orders",
